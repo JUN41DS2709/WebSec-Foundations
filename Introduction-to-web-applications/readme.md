@@ -1,6 +1,6 @@
-# INTRODUCTION TO WEB APPLICATION
+## INTRODUCTION TO WEB APPLICATION
 
-## What is a Web Application?
+### What is a Web Application?
 
 A **website** can primarily provide information.
 
